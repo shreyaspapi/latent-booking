@@ -9,7 +9,9 @@
   },
   "devDependencies": {
     "@repo/db": "workspace:*",
-    "@repo/typescript-config": "workspace:*"
+    "@repo/typescript-config": "workspace:*",
+    "supertest": "^6.3.3",
+    "@types/supertest": "^2.0.12"
   },
   "keywords": [],
   "author": "",
